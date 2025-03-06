@@ -1,0 +1,1 @@
+This is a code that looks at SQA data from 2009 to 2023. It is not done or clean but it shows more the legitimacy of what I am producing for the Strathclyde telegraph than an actually fully fledged and clean version
